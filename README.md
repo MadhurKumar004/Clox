@@ -58,10 +58,9 @@ Hello, World!
 
 
 #### File Execution
-```bash
 ./clox program.lox
 #currently under work
-```
+
 ```
 ## Debugging
 
